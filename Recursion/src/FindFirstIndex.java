@@ -1,5 +1,5 @@
 
-public class FirstIndex {
+public class FindFirstIndex {
 
 	public static void main(String[] args) {
 		int[] arr= {5,4,6,1,4,4,8,17};
